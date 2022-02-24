@@ -18,5 +18,5 @@ Conoce la App
 -------------
 
 En el siguiente enlace podrás observar la app desde _github pages_ :
-https://kefrari27.github.io/To_do_list_ts/
+https://kefrari27.github.io/To_do_list_TS/
 
